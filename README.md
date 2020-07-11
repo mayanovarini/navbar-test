@@ -1,3 +1,12 @@
+## Scenario
+
+This is an exercise to demonstrate an interactive navigation bar for an editorial piece about cities around the world. The cities in the navigation bar are populated from the provided JSON data.
+
+
+The navigation bar has a sliding bar that indicates a selected item, 
+and the bar resizes itself to match the width of the selected item text.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
